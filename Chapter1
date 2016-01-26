@@ -1,0 +1,17 @@
+1. Imagine that you have trained your St. Bernard, Bernie, to carry a box of three 8-mm tapes instead of
+a flask of brandy. (When your disk fills up, you consider that an emergency.) These tapes each contain 7
+gigabytes. The dog can travel to your side, wherever you may be, at 18 km/hour. For what range of
+distances does Bernie have a higher data rate than a transmission line whose data rate (excluding
+overhead) is 150 Mbps? How does your answer change if (i) Bernie's speed is doubled; (ii) each tape
+capacity is doubled; (iii) the data rate of the trasmission line is doubled.
+ANSWER 3 * 7 = 21 GB = 168000 Mb
+18 km/hour * 1/3600 = 0.005 km/s
+For x km = 0.005 km/s = 1/0.005 s = x km * 200 s
+168000 / x km * 200 s = x km * 840 Mbps
+x km * 840 Mps = 150 Mps
+x km = 840 Mps / 150 Mps = 5.6 km
+For x < 5.6 km Bernie have a higher data rate.
+If Bernie's speed is doubled(i) or each tape capacity is doubled(ii) the distance is doubled.
+For x < 11.2 km
+If the data rate of the transmission line is doubled (iii) the distance is reduced by half.
+For x < 2.8 km
