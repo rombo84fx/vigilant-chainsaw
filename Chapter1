@@ -15,3 +15,8 @@ If Bernie's speed is doubled(i) or each tape capacity is doubled(ii) the distanc
 For x < 11.2 km
 If the data rate of the transmission line is doubled (iii) the distance is reduced by half.
 For x < 2.8 km
+
+2. An alternative to a LAN is simply a big timesharing system with terminals for all users. Give two
+advantages of a client-server system using a LAN.
+ANSWER If there are multiple servers, it can provide redundancy. There could be different types of
+devices connected to the service.
